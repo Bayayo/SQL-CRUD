@@ -17,4 +17,5 @@ DESCRIBE games;
 
 SELECT * from games;
 
+/* LA PASS CAMBIA DEPENDIENDO DE TU SQL*/
 /*cmd>mysql -u root -p =M*S**P******3
