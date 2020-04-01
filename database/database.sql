@@ -18,4 +18,5 @@ DESCRIBE games;
 SELECT * from games;
 
 /* LA PASS CAMBIA DEPENDIENDO DE TU SQL*/
+/* ESTA PASS SE DEBE REFRESCAR EN EL SERVIDOR*/
 /*cmd>mysql -u root -p =M*S**P******3
