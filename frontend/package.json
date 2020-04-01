@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "all" : "concurrently \"ng serve --port 666 --open\" \"cd.. && cd server && npm run dev \" "
+    "all": "concurrently \"ng serve --port 666 --open\" \"cd.. && cd server && npm run dev \" "
   },
   "private": true,
   "dependencies": {

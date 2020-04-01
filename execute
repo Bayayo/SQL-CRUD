@@ -1,4 +1,0 @@
-echo on
-del Shorcout.vbs
-cd "frontend" & npm run all
-pause

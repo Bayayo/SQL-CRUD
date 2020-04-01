@@ -15,7 +15,7 @@
             host: 'localhost',
             user: 'root',
             pass: 'MySqlPass0123',
-            database: 'ng_games_db'
+            database: 'ng_games_db' //Se tenia que haber ejecutado el SQL de la carpeta database
         }
     };
 });
