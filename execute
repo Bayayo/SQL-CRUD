@@ -1,4 +1,4 @@
 echo on
-del CreateShortcut.vbs
+del Shorcout.vbs
 cd "frontend" & npm run all
 pause
